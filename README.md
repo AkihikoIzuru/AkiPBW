@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm AkihikoIzuru from Indonesian<br><br>- 🔭 I’m currently learning ReactJS<br>- ⚡ Fun fact saya orang yang sering kena NT.</p>
+<p align="left">I'm Akii from Indonesian<br><br>- 🔭 I’m currently learning ReactJS<br>- ⚡ Fun fact saya orang yang sering kena NT.</p>
 
 ###
 
@@ -98,8 +98,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Aki.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Aki.&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Aki">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Aki&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
